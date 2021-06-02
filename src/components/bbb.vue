@@ -1,5 +1,5 @@
 <template>
-  <div>bbb</div>
+  <div>bbb是倒萨倒萨大</div>
 </template>
 
 <script>
